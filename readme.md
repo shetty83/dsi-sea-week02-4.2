@@ -110,4 +110,3 @@ Ok! Now that you have some background, here is your lab assignment:
 
 [Here is your starter code](./code/starter-code/w2-4.2-starter.ipynb).
 
-> [Solution Code](./code/solution-code/w2-4.2-solution.ipynb)
